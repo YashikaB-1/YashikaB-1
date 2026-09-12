@@ -23,21 +23,26 @@ Right now I'm going deeper on the modern GenAI stack (RAG, agents, LangChain) an
 
 <p>
   <img src="https://img.shields.io/badge/Python-0E1730?style=flat-square&logo=python&logoColor=56E0B0&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/PyTorch-0E1730?style=flat-square&logo=pytorch&logoColor=56E0B0&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/scikit--learn-0E1730?style=flat-square&logo=scikitlearn&logoColor=56E0B0&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/OpenCV-0E1730?style=flat-square&logo=opencv&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/SQL-0E1730?style=flat-square&logo=postgresql&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/C-0E1730?style=flat-square&logo=c&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/TensorFlow-0E1730?style=flat-square&logo=tensorflow&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/PyTorch-0E1730?style=flat-square&logo=pytorch&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/Keras-0E1730?style=flat-square&logo=keras&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/OpenCV-0E1730?style=flat-square&logo=opencv&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/YOLO-0E1730?style=flat-square&logo=yolo&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/MediaPipe-0E1730?style=flat-square&logo=google&logoColor=5B8CFF&labelColor=0E1730">
   <img src="https://img.shields.io/badge/pandas-0E1730?style=flat-square&logo=pandas&logoColor=56E0B0&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/NumPy-0E1730?style=flat-square&logo=numpy&logoColor=56E0B0&labelColor=0E1730">
-</p>
-<p>
+  <img src="https://img.shields.io/badge/Jupyter-0E1730?style=flat-square&logo=jupyter&logoColor=56E0B0&labelColor=0E1730">
   <img src="https://img.shields.io/badge/Flask-0E1730?style=flat-square&logo=flask&logoColor=5B8CFF&labelColor=0E1730">
   <img src="https://img.shields.io/badge/Streamlit-0E1730?style=flat-square&logo=streamlit&logoColor=5B8CFF&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/SQLite-0E1730?style=flat-square&logo=sqlite&logoColor=5B8CFF&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/Jupyter-0E1730?style=flat-square&logo=jupyter&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/MLflow-0E1730?style=flat-square&logo=mlflow&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/Docker-0E1730?style=flat-square&logo=docker&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/AWS%20SageMaker-0E1730?style=flat-square&logo=amazonwebservices&logoColor=5B8CFF&labelColor=0E1730">
   <img src="https://img.shields.io/badge/Git-0E1730?style=flat-square&logo=git&logoColor=5B8CFF&labelColor=0E1730">
-  <img src="https://img.shields.io/badge/VS%20Code-0E1730?style=flat-square&logo=visualstudiocode&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/DevOps-0E1730?style=flat-square&logo=githubactions&logoColor=5B8CFF&labelColor=0E1730">
 </p>
 
+<sub>Working across machine learning, deep learning, computer vision, NLP, and LLMs.</sub>
 
 
 ### Reach me
