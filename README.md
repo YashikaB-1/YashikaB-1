@@ -38,16 +38,14 @@ Right now I'm going deeper on the modern GenAI stack (RAG, agents, LangChain) an
   <img src="https://img.shields.io/badge/VS%20Code-0E1730?style=flat-square&logo=visualstudiocode&logoColor=5B8CFF&labelColor=0E1730">
 </p>
 
-### Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashikaB-1&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&bg_color=0A1020&text_color=9BB0DA&title_color=56E0B0&icon_color=5B8CFF&border_color=2A3A63&border_radius=10">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashikaB-1&layout=compact&hide_title=true&langs_count=6&bg_color=0A1020&text_color=9BB0DA&title_color=56E0B0&border_color=2A3A63&border_radius=10">
-</p>
 
 ### Reach me
 
 <a href="https://www.linkedin.com/in/yashika185">
   <img src="https://img.shields.io/badge/LinkedIn-5B8CFF?style=flat-square&logo=linkedin&logoColor=0A1020">
-</a>
+</a> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YashikaB-1&label=Profile%20views&color=56e0b0&style=flat-square" alt="Profile views">
+</p>
 
