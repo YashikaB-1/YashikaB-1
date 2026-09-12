@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/header.svg" alt="Yashika B - I build models that see, flag, and explain." width="100%">
+  <img src="header.svg" alt="Yashika B - I build models that see, flag, and explain." width="100%">
 </p>
 
 I'm a computer science student working mostly in Python, on machine learning systems that have to make a call about something real: is this traffic hostile, should this identity get access, what is this hand signing. The part I care about is the last mile — getting a model out of a notebook and into something a person can actually use and question.
