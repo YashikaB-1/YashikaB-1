@@ -1,123 +1,53 @@
-<div align="center">
+<p align="center">
+  <img src="assets/header.svg" alt="Yashika B - I build models that see, flag, and explain." width="100%">
+</p>
 
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│              Y A S H I K A   B .   &   C O .             │
-│                                                          │
-│        P U R V E Y O R S   ·   O F   ·   M A C H I N E   │
-│              I N T E L L I G E N C E                     │
-│                                                          │
-│   ·  EST. MMXXV  ·  CATALOGUE No. I  ·  PRICE: FREE  ·   │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+I'm a computer science student working mostly in Python, on machine learning systems that have to make a call about something real: is this traffic hostile, should this identity get access, what is this hand signing. The part I care about is the last mile — getting a model out of a notebook and into something a person can actually use and question.
 
-*"Just another enthusiastic student exploring AI, ML & real-world projects."*
+Right now I'm going deeper on the modern GenAI stack (RAG, agents, LangChain) and looking for projects where that work lands somewhere useful.
 
-**— written in the proprietress's own hand**
+### What I'm building
 
-</div>
+| Project | What it does |
+|:--|:--|
+| [**Sign language detection**](https://github.com/YashikaB-1/sign-language-detection) | Reads hand signs from video and turns them into text. Computer vision, Python. |
+| [**Elevator button detection**](https://github.com/YashikaB-1/elevator-button-detection) | Locates and labels elevator panel buttons — the perception piece assistive robots need to ride a lift. |
+| [**Permguard**](https://github.com/YashikaB-1/Permguard) | Scores how risky an identity's access request is, and shows which factors drove the score. |
+| [**Network intrusion detection**](https://github.com/YashikaB-1/Network-intrusion-detection-system) | Classifies network traffic as benign or attack, with the feature analysis worked through in notebooks. |
+| [**APT detection**](https://github.com/YashikaB-1/Advanced-persistent-threats-detection) | Targets the slow, quiet intrusions that stay resident instead of tripping a single alarm. |
+| [**Recruitment intelligence engine**](https://github.com/YashikaB-1/Recruitment-intelligence-engine) | Parses resumes, ranks candidates against a role, and explains each match score. |
 
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
+<sub>[All repositories](https://github.com/YashikaB-1?tab=repositories)</sub>
 
-## &nbsp;ARTICLE I · CONCERNING THE PROPRIETRESS
+### Tools I reach for
 
-A student of computing, presently apprenticed to the applied software trade.
+<p>
+  <img src="https://img.shields.io/badge/Python-0E1730?style=flat-square&logo=python&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/PyTorch-0E1730?style=flat-square&logo=pytorch&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/scikit--learn-0E1730?style=flat-square&logo=scikitlearn&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/OpenCV-0E1730?style=flat-square&logo=opencv&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/pandas-0E1730?style=flat-square&logo=pandas&logoColor=56E0B0&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/NumPy-0E1730?style=flat-square&logo=numpy&logoColor=56E0B0&labelColor=0E1730">
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Flask-0E1730?style=flat-square&logo=flask&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/Streamlit-0E1730?style=flat-square&logo=streamlit&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/SQLite-0E1730?style=flat-square&logo=sqlite&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/Jupyter-0E1730?style=flat-square&logo=jupyter&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/Git-0E1730?style=flat-square&logo=git&logoColor=5B8CFF&labelColor=0E1730">
+  <img src="https://img.shields.io/badge/VS%20Code-0E1730?style=flat-square&logo=visualstudiocode&logoColor=5B8CFF&labelColor=0E1730">
+</p>
 
-She is engaged in the manufacture of thinking apparatus — engines that read a stack of
-resumes before breakfast, gates that decide who may pass, instruments that listen to a
-network all night without complaint, and one optical device taught to read hands that speak.
+### Activity
 
-She works chiefly in **Python**, keeps her ledgers in **SQL**, builds her shopfronts in
-**Flask**, and insists that every contraption explain *why* it reached its verdict.
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YashikaB-1&show_icons=true&hide_title=true&rank_icon=github&include_all_commits=true&bg_color=0A1020&text_color=9BB0DA&title_color=56E0B0&icon_color=5B8CFF&border_color=2A3A63&border_radius=10">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashikaB-1&layout=compact&hide_title=true&langs_count=6&bg_color=0A1020&text_color=9BB0DA&title_color=56E0B0&border_color=2A3A63&border_radius=10">
+</p>
 
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
+### Reach me
 
-## &nbsp;ARTICLE II · THE CATALOGUE OF WORKS
+<a href="https://www.linkedin.com/in/yashika185">
+  <img src="https://img.shields.io/badge/LinkedIn-5B8CFF?style=flat-square&logo=linkedin&logoColor=0A1020">
+</a>
 
-| № | ARTICLE | DESCRIPTION & TRADE NAME |
-|:---:|:---|:---|
-| **001** | **The Silent Interpreter** | An optical apparatus trained upon the language of hands, rendering gesture into common letters.<br>↳ [`sign-language-detection`](https://github.com/YashikaB-1/sign-language-detection) |
-| **002** | **The Ascending Chamber's Eye** | Finds and names the buttons within a lifting-room — for carriages and companions that must press their own floor.<br>↳ [`elevator-button-detection`](https://github.com/YashikaB-1/elevator-button-detection) |
-| **003** | **The Gatekeeper's Ledger** | Concerning identity, permission, and risk: who may pass, who may not, and the reasoning entered plainly in the margin.<br>↳ [`Permguard`](https://github.com/YashikaB-1/Permguard) |
-| **004** | **The Perimeter Alarm** | An instrument that listens to the traffic of a network and rings when a stranger tries the door.<br>↳ [`Network-intrusion-detection-system`](https://github.com/YashikaB-1/Network-intrusion-detection-system) |
-| **005** | **The Long Shadow** | For the patient sort of intruder — the one who does not leave. Detection of advanced persistent threats.<br>↳ [`Advanced-persistent-threats-detection`](https://github.com/YashikaB-1/Advanced-persistent-threats-detection) |
-| **006** | **The Recruiter's Desk** | Walnut, manila folders, an ink stamp for every match score. Candidate intelligence, done the old way, at modern speed.<br>↳ [`Recruitment-intelligence-engine`](https://github.com/YashikaB-1/Recruitment-intelligence-engine) |
-
-<div align="center">
-
-*Further volumes remain in the bindery.* &nbsp;·&nbsp; [**View the complete stock →**](https://github.com/YashikaB-1?tab=repositories)
-
-</div>
-
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
-
-## &nbsp;ARTICLE III · APPARATUS, INSTRUMENTS & SUNDRIES
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-4B3621?style=flat-square&logo=python&logoColor=F4ECD8)
-![Flask](https://img.shields.io/badge/Flask-5B4636?style=flat-square&logo=flask&logoColor=F4ECD8)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-6B4F3A?style=flat-square&logo=databricks&logoColor=F4ECD8)
-![Jupyter](https://img.shields.io/badge/Jupyter-7A5C43?style=flat-square&logo=jupyter&logoColor=F4ECD8)
-
-![PyTorch](https://img.shields.io/badge/PyTorch-4B3621?style=flat-square&logo=pytorch&logoColor=F4ECD8)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-5B4636?style=flat-square&logo=scikitlearn&logoColor=F4ECD8)
-![OpenCV](https://img.shields.io/badge/OpenCV-6B4F3A?style=flat-square&logo=opencv&logoColor=F4ECD8)
-![Pandas](https://img.shields.io/badge/Pandas-7A5C43?style=flat-square&logo=pandas&logoColor=F4ECD8)
-
-![Streamlit](https://img.shields.io/badge/Streamlit-4B3621?style=flat-square&logo=streamlit&logoColor=F4ECD8)
-![Git](https://img.shields.io/badge/Git-5B4636?style=flat-square&logo=git&logoColor=F4ECD8)
-![SQLite](https://img.shields.io/badge/SQLite-6B4F3A?style=flat-square&logo=sqlite&logoColor=F4ECD8)
-![VS Code](https://img.shields.io/badge/VS%20Code-7A5C43?style=flat-square&logo=visualstudiocode&logoColor=F4ECD8)
-
-</div>
-
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
-
-## &nbsp;ARTICLE IV · THE LEDGER OF ACCOUNTS
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=YashikaB-1&show_icons=true&rank_icon=github&hide_title=true&bg_color=F4ECD8&text_color=3E2F23&icon_color=8B5E3C&title_color=5B4636&border_color=C0A883&border_radius=2" height="160" alt="Ledger of accounts" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashikaB-1&layout=compact&hide_title=true&langs_count=6&bg_color=F4ECD8&text_color=3E2F23&title_color=5B4636&border_color=C0A883&border_radius=2" height="160" alt="Materials in stock" />
-
-<sub>*Accounts balanced nightly. Discrepancies to be reported to the counting-house.*</sub>
-
-</div>
-
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
-
-## &nbsp;ARTICLE V · TERMS OF TRADE
-
-```
-  i.    All apparatus sold AS-IS. No warranty expressed, none implied.
- ii.    Bugs are not defects. They are undocumented antique features.
-iii.    Contributions accepted by post — address all pull requests
-        to the maintainer, who reads them on Sundays.
- iv.    Stars are gratefully received and displayed upon the mantelpiece.
-```
-
-<div align="center">❦ &nbsp;&nbsp; ❦ &nbsp;&nbsp; ❦</div>
-
-## &nbsp;ARTICLE VI · CORRESPONDENCE
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/By%20Wire%20·%20LinkedIn-4B3621?style=flat-square&logo=linkedin&logoColor=F4ECD8)](https://www.linkedin.com/in/yashika185)
-[![GitHub](https://img.shields.io/badge/In%20Person%20·%20GitHub-5B4636?style=flat-square&logo=github&logoColor=F4ECD8)](https://github.com/YashikaB-1)
-
-<br>
-
-```
- ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-
-        TYPESET BY MACHINE  ·  PROOFED BY HAND  ·  MMXXVI
-
- ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·  ·
-```
-
-<img src="https://komarev.com/ghpvc/?username=YashikaB-1&label=VISITORS%20TO%20THE%20SHOP&color=8b5e3c&style=flat-square" alt="visitor counter" />
-
-</div>
